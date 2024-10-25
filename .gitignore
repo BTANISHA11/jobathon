@@ -11,7 +11,7 @@ node_modules
 dist
 dist-ssr
 *.local
-.env
+# .env (ignore this line if you want to track the .env file)
 
 # Editor directories and files
 .vscode/*
